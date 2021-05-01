@@ -14,7 +14,7 @@ Sample Output:
 
 https://user-images.githubusercontent.com/59712663/116789527-df634b00-aa89-11eb-818d-eb97086bdfd2.mp4
 
-
+From the output, it is clear there is a fals positive for the class 'bus'.
 
 
 
